@@ -15,7 +15,6 @@ function fizzBuzz() {
     console.log(output);
 }
 
-// Loop to call fizzBuzz multiple times
 for (var i = 1; i <= 100; i++) {
     fizzBuzz();
 }
