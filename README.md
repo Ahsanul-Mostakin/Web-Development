@@ -8,7 +8,7 @@ Projects and exercises showcasing skills in:
 - **Databases:** SQL, PostgreSQL  
 - **Frameworks:** React.js, React Hooks  
 - **Deployment:** GitHub Pages  
-- **Web3:** Blockchain basics, Token contracts, NFT minting & trading  
+- **Web3:** Blockchain basics, Token contracts, NFT minting 
 
 Focused on building responsive full-stack apps and exploring Web3 technologies.
 
