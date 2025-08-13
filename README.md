@@ -11,4 +11,7 @@ Projects and exercises showcasing skills in:
 - **Web3:** Blockchain basics, Token contracts, NFT minting 
 
 Focused on building responsive full-stack apps and exploring Web3 technologies.
+---
+
+Happy coding! 🚀
 
