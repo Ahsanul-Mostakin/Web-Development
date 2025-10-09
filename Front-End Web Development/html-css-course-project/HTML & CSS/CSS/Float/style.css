@@ -1,0 +1,78 @@
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    background-color: aqua;
+    color: brown;
+}
+
+p {
+    color: cornflowerblue;
+    background-color: aliceblue;
+}
+
+#paragraph {
+    color: black;
+    background-color: azure;
+}
+
+#heading {
+    color: aqua;
+    background-color: black;
+}
+
+.headingstyle {
+    color: chocolate;
+    background-color: darkgray;
+}
+.margin {
+    border: solid;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 50px;
+  }
+
+  #padding1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  #boxmodels {
+    background-color: yellow;
+    border: 20px solid blue;
+    width: 400px;
+    margin: 20px;
+    padding: 50px;
+  }
+
+  .align {
+    text-align: center;
+  }
+  
+  .class {
+    line-height: 40px;
+}
+
+  
+  .letter {
+    letter-spacing: 7px;
+  }
+
+  a {
+    color: aqua;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: lime;
+  }
+
+  img {
+    float: left;
+  }

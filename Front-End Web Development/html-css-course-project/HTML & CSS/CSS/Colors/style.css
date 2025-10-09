@@ -1,0 +1,28 @@
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    background-color: aqua;
+    color: brown;
+}
+
+p {
+    color: cornflowerblue;
+    background-color: aliceblue;
+}
+
+#paragraph {
+    color: black;
+    background-color: azure;
+}
+
+#heading {
+    color: aqua;
+    background-color: black;
+}
+
+.headingstyle {
+    color: chocolate;
+    background-color: darkgray;
+}

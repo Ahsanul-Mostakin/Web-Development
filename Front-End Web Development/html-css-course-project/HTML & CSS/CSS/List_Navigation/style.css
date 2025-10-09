@@ -1,0 +1,109 @@
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    background-color: aqua;
+    color: brown;
+}
+
+p {
+    color: cornflowerblue;
+    background-color: aliceblue;
+}
+
+#paragraph {
+    color: black;
+    background-color: azure;
+}
+
+#heading {
+    color: aqua;
+    background-color: black;
+}
+
+.headingstyle {
+    color: chocolate;
+    background-color: darkgray;
+}
+.margin {
+    border: solid;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 50px;
+  }
+
+  #padding1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  #boxmodels {
+    background-color: yellow;
+    border: 20px solid blue;
+    width: 400px;
+    margin: 20px;
+    padding: 50px;
+  }
+
+  .align {
+    text-align: center;
+  }
+  
+  .class {
+    line-height: 40px;
+}
+
+  
+  .letter {
+    letter-spacing: 7px;
+  }
+
+  a {
+    color: aqua;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: lime;
+  }
+
+  img {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto; 
+  }
+  
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: aqua;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: beige;
+  text-align: center;
+  padding: 20px 24px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: bisque;
+}
+
+.active {
+  background-color: aqua;
+}

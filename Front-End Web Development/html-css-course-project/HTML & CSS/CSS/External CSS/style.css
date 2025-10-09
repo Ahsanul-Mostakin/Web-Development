@@ -1,0 +1,15 @@
+body{
+    /*background-color: darkkhaki;*/
+    background-image: url(../Photos/car.jpg);
+    background-size: cover;
+}
+
+.headingstyle {
+    color: chocolate;
+    background-color: darkgray;
+  }
+  
+  div {
+    background-color: aqua;
+    opacity: 40%;
+  }
