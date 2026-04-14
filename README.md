@@ -1,17 +1,19 @@
 # Full-Stack Web Development Practice
 
-Projects and exercises showcasing skills in:
+This repository contains my practice work and exercises completed while following a full-stack web development course.
 
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5, JavaScript (ES6), DOM, jQuery  
-- **Tools:** Bash, Git & GitHub  
-- **Backend:** Node.js, Express.js, EJS, REST APIs, Authentication  
-- **Databases:** SQL, PostgreSQL  
-- **Frameworks:** React.js, React Hooks  
-- **Deployment:** GitHub Pages  
-- **Web3:** Blockchain basics, Token contracts, NFT minting 
+## Tech Used
+- HTML, CSS, Bootstrap  
+- JavaScript, React.js  
+- Node.js, Express.js  
+- MongoDB, PostgreSQL  
+- Git & GitHub  
 
-Focused on building responsive full-stack apps and exploring Web3 technologies.
+## Purpose
+To build a strong foundation in full-stack development by practicing core concepts and building small applications.
+
 ---
 
-Happy coding! 🚀
+🚀 Currently applying these skills in real-world projects.
+
 
